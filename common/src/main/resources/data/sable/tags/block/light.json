@@ -8,9 +8,9 @@
     "minecraft:piston_head",
     "minecraft:barrel",
     "minecraft:chest",
-    "#minecraft:bamboo_blocks"
+    "#minecraft:bamboo_blocks",
     "#c:clusters",
-    "#c:chests/wooden"
+    "#c:chests/wooden",
     { "id": "create:belt", "required": false },
     { "id": "create:track", "required": false },
     { "id": "create:nixie_tube", "required": false },
@@ -66,7 +66,7 @@
   ],
   "remove": [
     "#minecraft:wooden_slabs",
-    "#minecraft:wooden_stairs"
+    "#minecraft:wooden_stairs",
     "#quark:wooden_vertical_slabs"
   ]
 }
